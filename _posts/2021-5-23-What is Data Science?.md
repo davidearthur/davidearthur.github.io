@@ -1,10 +1,5 @@
----
-layout: post
-title: You're up and running!
----
+## What is Data Science?
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+What it means to be a data scientist is still a bit hazy to me, but after reading several articles I feel like I have a better understanding, at least in the abstract.  I like the description of data science as a combination of statistical theory and practice, software engineering, and specific subject matter knowledge.  I generally think of statisticians as working in relatively traditional or defined realms, such as clinical trials and designed experiments, with complex but established methods and protocols.  I think of data scientists as applying statistical expertise in sometimes unconventional ways, where large quantities of data exist, but it may be unclear what value can be obtained from analysis of the data.  Statistics seems a bit more grounded in theory, whereas data science tends to be more experimental, with results mattering more than proofs or theoretical models.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Despite the differences between statisticians and data scientists, I agree with the author of "Data Scientists Versus Statisticians," who suggests that the two fields will converge over time.  There is already a lot of overlap, and only a blurry line separating statistics from data science.  I imagine the two fields as endpoints on a spectrum, with some practitioners identifying more as statisticians while others lean more towards data science, but all sharing certain core expertise and a common language.  So far I've learned more about statistics than data science, but I look forward to gaining a more concrete understanding of data science through my ST 558 coursework.
