@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 ![my photo](images/2EB86148-AF7B-4149-9FD0-AA286064E4A9_1_105_c.jpeg)
