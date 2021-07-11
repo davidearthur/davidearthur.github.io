@@ -1,0 +1,9 @@
+As a project for my **Data Science for Statisticians** class, James Carr and I analyzed a data set with information on users of a bike share program over a two year period. The data itself was in interesting, and I learned a lot in the process of constructing statistical models that would predict the number of users on a particular day based on the values of the predictor variables recorded in the data set.  Between the two of us, we fit two linear regression models, a random forest model, and a boosted tree model, using a portion of the data set randomly chosen to be the training set.  We generated a report for each day of the week, and compared the performance of the models in predicting the value of the response variable for each of the oberservations in the test data set (the data not included in the training set).
+
+One of the big lessons for me in this project was reinforcement of the idea that no single type of model always performs best.  In our case, the boosted tree model made the most accurate predictions (evaluated by lowest mean squared error) on 4 days, the random forest did so on 2 days, and one of the linear regression models did the best on 1 day.
+
+The  most difficult (or at least most frustrating) parts of the project for me involved some of the details of coding.  The appearance of the output in `.md` form was not always what I expected, and figuring out why was sometimes a challenge.  Also, I can see that github is an incredibly useful tool for collaborating on a project, but I still have some things to learn about managing the push/pull/commit process.
+
+In the future, I think I would try to understand the mechanics of the github merge process a bit better before jumping into a shared project.
+
+You can see our analysis [here](https://davidearthur.github.io/ST558Project2/), or visit the [repo](https://github.com/davidearthur/ST558Project2).
